@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002992534144",
+    "project_id": "communicate-together-63ff2",
+    "storage_bucket": "communicate-together-63ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002992534144:android:70b9619ce8b06737239c65",
+        "android_client_info": {
+          "package_name": "com.ankitsharma.communicatetogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002992534144-465errrlfvfghispv95dpjo123bkjb44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV869rwsbA0gzdB089TUxT6Daj3ZXDN6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002992534144-465errrlfvfghispv95dpjo123bkjb44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

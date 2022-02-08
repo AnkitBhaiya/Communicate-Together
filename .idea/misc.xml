@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/drawable/bg_reciever.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/drawable/bg_sender.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/drawable/bg_settings.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_chat_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_group_chatting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_login.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_sign_up.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/activity_splash_screen.xml" value="0.165625" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/fragment_chats.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/fragment_status.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/sample_reciever.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/sample_sender.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/layout/sample_show_user.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ankit Sharma/AndroidStudioProjects/CommunicateTogether/app/src/main/res/menu/menu.xml" value="0.13703703703703704" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (10)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
